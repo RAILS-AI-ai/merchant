@@ -1,0 +1,17 @@
+{
+  "name": "merchant",
+  "version": "1.0.0",
+  "description": "Open-source commerce backend for Stripe — Python FastAPI, RAILS AI agent-ready.",
+  "private": true,
+  "scripts": {
+    "dev": "cd backend && PYTHONPATH=. uvicorn app.main:app --reload --port 8000",
+    "dev:admin": "cd admin && npm run dev",
+    "dev:example": "cd example && npm run dev",
+    "init": "cd backend && PYTHONPATH=. python scripts/init.py",
+    "seed": "cd backend && PYTHONPATH=. python scripts/seed.py http://localhost:8000",
+    "test": "cd backend && PYTHONPATH=. pytest -q",
+    "docker:up": "docker compose up -d --build",
+    "docker:down": "docker compose down",
+    "docker:logs": "docker compose logs -f api"
+  }
+}
