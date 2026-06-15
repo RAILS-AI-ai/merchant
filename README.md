@@ -1,6 +1,6 @@
 # Merchant UI Agentic Commerce Infrastructure/Gateway 
 
-**The open-source Agentic Commerce backend for Stripe,Bring a Stripe key(BYOK) and Start selling any Product Catalogue from Shopify et al to AI Agents.**
+**The Open-source Agentic Commerce backend for Stripe with Bring a Stripe key(BYOK) paradigm and Start selling any Product Catalogue from your Shopify storefront to AI Agents. Start Selling and make $$$ **
 
 A lightweight, API-first backend for products, inventory, checkout, and orders — built in **Python (FastAPI)** for the **[RAILS AI](https://www.userails.ai/#)** agentic commerce platform (UCP + MCP + OAuth 2.0).
 
