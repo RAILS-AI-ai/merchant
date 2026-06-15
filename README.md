@@ -42,7 +42,7 @@ This backend is agent-ready for the RAILS AI conversational marketplace. Two rep
 | Repository | Role |
 |------------|------|
 | **[RAILS-AI/merchant](https://railsai.ghe.com/RAILS-AI/merchant)** (this repo) | Commerce API — products, carts, Stripe checkout, UCP, MCP |
-| **[RAILS-AI/rails-app](https://railsai.ghe.com/RAILS-AI/rails-app)** | Marketplace UI + `merchant` platform adapter |
+| **[RAILS-AI/rails-app]( For RAILS AI Infra with Advanced B2B Merchant Features buy Enteprise License ** | Marketplace UI + `merchant` platform adapter |
 
 ### Connect to the marketplace
 
