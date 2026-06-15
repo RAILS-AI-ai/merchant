@@ -1,0 +1,14 @@
+# Merchant Commerce Backend — Python 3.12+ (RAILS AI aligned)
+fastapi>=0.115.0
+uvicorn[standard]>=0.32.0
+sqlalchemy>=2.0.36
+pydantic[email]>=2.10.0
+email-validator>=2.2.0
+pydantic-settings>=2.6.0
+python-dotenv>=1.0.1
+python-multipart>=0.0.18
+httpx>=0.28.0
+stripe>=11.0.0
+apscheduler>=3.10.4
+alembic>=1.14.0
+psycopg2-binary>=2.9.10
