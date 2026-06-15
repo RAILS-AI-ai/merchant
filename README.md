@@ -2,9 +2,9 @@
 
 **The open-source Agentic Commerce backend for Stripe,Bring a Stripe key(BYOK) and Start selling any Product Catalogue from Shopify et al to AI Agents.**
 
-A lightweight, API-first backend for products, inventory, checkout, and orders — built in **Python (FastAPI)** for the **[RAILS AI](https://railsai.ghe.com/RAILS-AI)** agentic commerce platform (UCP + MCP + OAuth 2.0).
+A lightweight, API-first backend for products, inventory, checkout, and orders — built in **Python (FastAPI)** for the **[RAILS AI](https://www.userails.ai/#)** agentic commerce platform (UCP + MCP + OAuth 2.0).
 
-**Organization:** [RAILS-AI/merchant](https://railsai.ghe.com/RAILS-AI/merchant)
+**Organization:** https://www.userails.ai/# 
 
 ## Quick Start
 
