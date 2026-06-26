@@ -497,5 +497,26 @@ PostgreSQL is recommended for production (`docker compose up`). Use `schema-post
 MIT — Copyright (c) 2025-2026 RAILS AI Organization. See [LICENSE](LICENSE).
 
 ## Contributing
+Open Source code contributions, PR's and raising issues or Enhancements are welcomed.
+
+## Citation
+
+If you use this work, please cite:
+
+```bibtex
+@misc{sheriff2026beyond,
+  title         = {Beyond Malicious Pixels: Visual Prompt Injection in Agentic Commerce},
+  author        = {Sheriff, Akram},
+  year          = {2026},
+  eprint        = {XXXX.XXXXX},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.AI},
+  note          = {RAILS AI Agentic Security Research},
+  url           = {https://arxiv.org/abs/XXXX.XXXXX}
+}
+```
+
+**Plain-text:**
+Akram Sheriff. *Beyond Malicious Pixels: Visual Prompt Injection in Agentic Commerce.* arXiv preprint arXiv:XXXX.XXXXX, 2026.
 
 See [CONTRIBUTING.md](CONTRIBUTING.md). Security reports: [SECURITY.md](SECURITY.md).
